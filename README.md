@@ -4,11 +4,9 @@ Third Assignment for the course "Machine Learning and Artificial Intelligence" @
 
 Domani Adversarial Neural Network based on AlexNet.
 
-*Main algorithms and techniques:* DANN, AlexNet, Transfer Learning, Data Augmentation.
-<br>
-*Evaluation metrics:* Accuracy (Cross-Domain Validation).
-<br>
-*Programming language and main libraries:* Python, Pytorch.
+* *Main algorithms and techniques:* DANN, AlexNet, Transfer Learning, Data Augmentation.
+* *Evaluation metrics:* Accuracy (Cross-Domain Validation).
+* *Programming language and main libraries:* Python, Pytorch.
 
 ### Abstract
 
